@@ -3,7 +3,7 @@ var jsonUrl = 'https://raw.githubusercontent.com/NeverosYudid/JSON/master/app.js
 
 //ServiceWorker
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register("/serviceworker.js");
+    navigator.serviceWorker.register("/service-worker.js");
 }
 
 //Funcion para cargar el JSON
