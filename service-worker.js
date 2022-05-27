@@ -3,7 +3,7 @@ const RUNTIME = 'runtime';
 const resources = [
     './index.html',
     './js/app.js',
-    './css/main.css',
+    './main.css',
 ]
 
 
