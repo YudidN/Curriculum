@@ -1,0 +1,129 @@
+ body{
+    background-color: rgb(136, 134, 134);
+ }
+ div#base{
+    width: 800px;
+    height: 830px;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px rgb(18, 17, 17);
+    margin-top: 30px;
+    margin: auto;
+
+}
+
+div#izquierda{
+    width: 250px;
+    height: 830px;
+    background-color: rgb(229, 172, 129);
+}
+div#derecha{
+    float: right;
+    width: 550px;
+    height: 830px;
+    background-color: rgb(255, 255, 255);
+}
+
+div img{
+    width: 250px;
+    height: 200px;
+
+}
+
+div#izquierda h4#titulos{
+    font-family: Arial ;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+div#izquierda hr#izquierda{
+    width: 200px;
+    height: 3px;
+    background-color: black;
+    border-color: black;
+
+}
+div#izquierda p#subtitulo{
+    font-family: Arial ;
+    font-size: 15px;
+    margin: 5px;
+    font-weight: bold;
+
+}
+
+div#derecha h1{
+    font-family: Arial ;
+    text-align: center;
+
+}
+div#derecha h4#titulosder{
+    font-family: Arial ;
+    font-size: 15px;
+    margin: 5px;
+
+}
+div#derecha hr#derecha{
+    width: 400px;
+    height: 3px;
+    display: inline-block;
+    margin: 5px;
+    background-color: rgb(229, 172, 129);
+    border-color:rgb(229, 172, 129)
+}
+
+div#derecha p#subtituloder{
+    font-family: Arial ;
+    font-size: 15px;
+    margin: 5px;
+    font-weight: bold;
+    margin-left: 25px;
+
+}
+
+div#izquierda p#texto{
+    margin: 5px;
+    font-size: 15px;
+    font-family: Arial ;
+}
+div#derecha p#textoder{
+    margin: 5px;
+    font-size: 15px;
+    margin-left: 25px;
+    font-family: Arial ;
+}
+div#derecha p#texto{
+    margin: 5px;
+    font-size: 15px;
+    font-family: Arial ;
+}
+div#derecha p#textoderfe{
+    margin: 5px;
+    font-size: 15px;
+    margin-left: 25px;
+    color: rgb(123, 15, 15);
+    font-weight: bold;
+    font-family: Arial ;
+}
+
+div#derecha div#col1{
+    float:right;
+    width: 183px;
+    height: 224px;
+    font-family: Arial ;
+}
+
+div#derecha div#col2{
+    float: right;
+    width: 183px;
+    height: 206px;
+    font-family: Arial ;
+    font-size: 15px;
+}
+
+div#derecha div#col3{
+    float: right;
+    width: 183px;
+    height: 206px;
+    font-family: Arial ;
+    font-size: 15px;
+}
